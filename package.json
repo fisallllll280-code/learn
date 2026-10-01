@@ -10,7 +10,7 @@
     "prepare": "husky"
   },
   "devDependencies": {
-    "@doc-kit/cli": "1.0.2",
+    "@doc-kit/cli": "1.0.3",
     "@doc-kit/generator-react": "0.3.0",
     "@eslint/js": "^10.0.1",
     "@node-core/doc-kit": "2.0.2",
